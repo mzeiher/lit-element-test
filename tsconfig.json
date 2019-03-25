@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "es6",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "moduleResolution": "node"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
